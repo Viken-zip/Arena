@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#canvas{
+    border: solid 1px blue;
+}
+#canvas:hover{
+    cursor: url('img/pointer.png'), auto;
+}
